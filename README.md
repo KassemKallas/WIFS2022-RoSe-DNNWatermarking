@@ -28,8 +28,7 @@ math
 Protecting the Intellectual Property rights of DNN models is of primary importance prior to their deployment. So far, the proposed methods either necessitate changes to internal model parameters or the machine learning pipeline, or they fail to meet both the security and robustness requirements. This paper proposes a lightweight, robust, and secure black-box DNN watermarking protocol that takes advantage of cryptographic one-way functions as well as the injection of in-task key image-label pairs during the training process. These pairs are later used to prove DNN model ownership during testing. The main feature is that the value of the proof and its security are measurable. The extensive experiments watermarking image classification models for various datasets as well as exposing them to a variety of attacks, show that it provides protection while maintaining an adequate level of security and robustness.
 
 # Results
-![alt Results Against Attacks](https://github.com/[KassemKallas]/[WIFS2022-RoSe-DNNWatermarking]/blob/main/Table1.png?raw=true)
-
+![alt Results Against Attacks](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table1.png?raw=true)
 
 
 ## Citation
