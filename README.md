@@ -30,6 +30,8 @@ Protecting the Intellectual Property rights of DNN models is of primary importan
 # Results
 ![alt Results Against Attacks](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table1.png?raw=true)
 
+![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table2.png?raw=true)
+
 
 ## Citation
 
