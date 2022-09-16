@@ -6,7 +6,7 @@
 This repository consists of the tensforflow implementation for our WIFS 2022 paper RoSe: A RObust and SEcure Black-Box DNN Watermarking available at:
 https://arxiv.org/abs/2206.11024
 
-This notebook has been tested on google Colab and on local and remote GPUs
+This notebook has been tested on google Colab and on local and remote GPUs.
 
 ### Requirements
 tensorflow
