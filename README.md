@@ -5,7 +5,7 @@
 
 #Auhtors: Kassem Kallas and Teddy Furon
 
-#Centre Inria de l’Universit´e de Rennes, France
+#Centre Inria de l’Université de Rennes, France
 
 This repository consists of the tensforflow implementation for our WIFS 2022 paper RoSe: A RObust and SEcure Black-Box DNN Watermarking available at:
 https://arxiv.org/abs/2206.11024
