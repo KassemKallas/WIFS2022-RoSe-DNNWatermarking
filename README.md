@@ -1,1 +1,46 @@
 # WIFS2022-RoSe-DNNWatermarking
+
+# RoSe: A RObust and SEcure Black-Box DNN Watermarking
+**IEEE International Workshop on Information Forensics and Security (WIFS) 2022**
+
+This repository consists of the tensforflow implementation for our WIFS 2022 paper RoSe: A RObust and SEcure Black-Box DNN Watermarking available at:
+https://arxiv.org/abs/2206.11024
+
+This notebook has been tested on google Colab and on local and remote GPUs
+
+### Requirements
+tensorflow
+numpy
+seaborn
+hashlib
+PIL
+h5py
+zipfile
+tempfile
+scipy
+shutil
+sklearn
+glob
+matplotlib
+math
+
+# Abstract
+Protecting the Intellectual Property rights of DNN models is of primary importance prior to their deployment. So far, the proposed methods either necessitate changes to internal model parameters or the machine learning pipeline, or they fail to meet both the security and robustness requirements. This paper proposes a lightweight, robust, and secure black-box DNN watermarking protocol that takes advantage of cryptographic one-way functions as well as the injection of in-task key image-label pairs during the training process. These pairs are later used to prove DNN model ownership during testing. The main feature is that the value of the proof and its security are measurable. The extensive experiments watermarking image classification models for various datasets as well as exposing them to a variety of attacks, show that it provides protection while maintaining an adequate level of security and robustness.
+
+# Results
+
+
+
+## Citation
+
+If you find this work useful and use it on your own research, please cite our paper  
+
+```
+@inproceedings{kallas2022rose,
+  title={RoSe: A RObust and SEcure Black-Box DNN Watermarking},
+  author=author={Kallas, Kassem and Furon, Teddy},
+  booktitle={IEEE International Workshop on Information Forensics and Security},
+  year={2022}
+}
+
+```
