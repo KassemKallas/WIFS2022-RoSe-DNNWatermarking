@@ -3,6 +3,10 @@
 # RoSe: A RObust and SEcure Black-Box DNN Watermarking
 **IEEE International Workshop on Information Forensics and Security (WIFS) 2022**
 
+#Auhtors: Kassem Kallas and Teddy Furon
+
+#Centre Inria de l’Universit´e de Rennes, France
+
 This repository consists of the tensforflow implementation for our WIFS 2022 paper RoSe: A RObust and SEcure Black-Box DNN Watermarking available at:
 https://arxiv.org/abs/2206.11024
 
@@ -33,6 +37,8 @@ Protecting the Intellectual Property rights of DNN models is of primary importan
 
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table2.png?raw=true)
 
+## Acknowledgments
+We would like to thank the ANR and AID french agencies for funding Chaire SAIDA ANR-20-CHIA-0011.
 
 ## Citation
 
