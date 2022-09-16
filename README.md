@@ -3,7 +3,7 @@
 ### RoSe: A RObust and SEcure Black-Box DNN Watermarking
 **IEEE International Workshop on Information Forensics and Security (WIFS) 2022**
 
-### Auhtors: Kassem Kallas and Teddy Furon
+### Authors: Kassem Kallas and Teddy Furon
 
 ### Centre Inria de l’Université de Rennes, France
 
