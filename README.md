@@ -10,6 +10,7 @@ This notebook has been tested on google Colab and on local and remote GPUs
 
 ### Requirements
 tensorflow
+tensorflow-model-optimization
 numpy
 seaborn
 hashlib
