@@ -33,9 +33,16 @@ math
 Protecting the Intellectual Property rights of DNN models is of primary importance prior to their deployment. So far, the proposed methods either necessitate changes to internal model parameters or the machine learning pipeline, or they fail to meet both the security and robustness requirements. This paper proposes a lightweight, robust, and secure black-box DNN watermarking protocol that takes advantage of cryptographic one-way functions as well as the injection of in-task key image-label pairs during the training process. These pairs are later used to prove DNN model ownership during testing. The main feature is that the value of the proof and its security are measurable. The extensive experiments watermarking image classification models for various datasets as well as exposing them to a variety of attacks, show that it provides protection while maintaining an adequate level of security and robustness.
 
 # Results
+**Results against Fine-tuning and Quantization**
 ![alt Results Against Attacks](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table1.png?raw=true)
-
+**Results against JPEG Compression**
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table2.png?raw=true)
+**Results against Weights Pruning**
+![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/pruning_MNIST_FashionMNIST.png?raw=true)
+![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/pruning_CIFAR10_IMAGENET.png?raw=true)
+**Results against FC Pruning**
+![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/FCpruning_MNIST_FashionMNIST.png?raw=true)
+![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/FCpruning_CIFAR10_IMAGENET.png?raw=true)
 
 ## Acknowledgments
 We would like to thank the ANR and AID french agencies for funding Chaire SAIDA ANR-20-CHIA-0011.
