@@ -56,7 +56,7 @@ We would like to thank the ANR and AID french agencies for funding Chaire SAIDA 
 
 ## Citation
 
-If you find this work useful and use it on your own research, please cite our paper  
+If you find this work useful and use it on your own research, please cite our paper:
 
 ```
 @inproceedings{kallas2022rose,
