@@ -35,13 +35,20 @@ Protecting the Intellectual Property rights of DNN models is of primary importan
 # Results
 **Results against Fine-tuning and Quantization**
 ![alt Results Against Attacks](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table1.png?raw=true)
+
 **Results against JPEG Compression**
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table2.png?raw=true)
-**Results against Weights Pruning**
+
+**Results against Weights Pruning on MNIST and FashionMNIST**
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/pruning_MNIST_FashionMNIST.png?raw=true)
+
+**Results against Weights Pruning on CIFAR10 and Transfer Learning**
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/pruning_CIFAR10_IMAGENET.png?raw=true)
-**Results against FC Pruning**
+
+**Results against FC Pruning on MNIST and FashionMNIST**
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/FCpruning_MNIST_FashionMNIST.png?raw=true)
+
+**Results against FC Pruning on CIFAR10 and Transfer Learning**
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/FCpruning_CIFAR10_IMAGENET.png?raw=true)
 
 ## Acknowledgments
