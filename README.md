@@ -40,7 +40,7 @@ Protecting the Intellectual Property rights of DNN models is of primary importan
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Table2.png?raw=true)
 
 **Results against Weights Pruning on MNIST and FashionMNIST**
-![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/pruning_MNIST_FashionMNIST.png?raw=true)
+![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/Weightspruning_MNIST_FashionMNIST.png?raw=true)
 
 **Results against Weights Pruning on CIFAR10 and Transfer Learning**
 ![alt Results with JPEG Compression](https://github.com/KassemKallas/WIFS2022-RoSe-DNNWatermarking/blob/main/pruning_CIFAR10_IMAGENET.png?raw=true)
